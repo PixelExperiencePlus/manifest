@@ -116,7 +116,7 @@
   <project path="system/logging" name="system_logging" remote="pixel" />
   <project path="system/media" name="system_media" remote="pixel" />
   <project path="system/security" name="system_security" remote="pixel" />
-  <project path="system/sepolicy" name="system_sepolicy" remote="pixel" />
+  <project path="system/sepolicy" name="system_sepolicy" remote="PixelExperiencePlus" />
   <project path="system/tools/mkbootimg" name="system_tools_mkbootimg" remote="pixel" />
   <project path="system/update_engine" name="system_update_engine" remote="pixel" />
   <project path="system/vold" name="system_vold" remote="pixel" />

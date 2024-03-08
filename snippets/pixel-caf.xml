@@ -2,8 +2,8 @@
 <manifest>
 
   <!-- Device repos -->
-  <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="pixel" />
-  <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy-legacy-um" remote="pixel" />
+  <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="PixelExperiencePlus" />
+  <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy-legacy-um" remote="PixelExperiencePlus" />
   <project path="device/qcom/sepolicy_vndr/legacy-um" name="device_qcom_sepolicy_vndr_legacy-um" remote="PixelExperiencePlus" />
   <project path="device/qcom/sepolicy_vndr/sm8450" name="device_qcom_sepolicy_vndr_sm8450" remote="pixel" />
   <project path="device/qcom/sepolicy_vndr/sm8550" name="device_qcom_sepolicy_vndr_sm8550" remote="pixel" />
