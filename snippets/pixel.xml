@@ -108,7 +108,7 @@
 
   <!-- System Repos -->
   <project path="system/bpf" name="system_bpf" remote="pixel" />
-  <project path="system/core" name="system_core" remote="pixel" />
+  <project path="system/core" name="system_core" remote="PixelExperiencePlus" />
   <project path="system/extras" name="system_extras" remote="pixel" />
   <project path="system/libhidl" name="system_libhidl" remote="pixel" />
   <project path="system/libhwbinder" name="system_libhwbinder" remote="pixel" />
